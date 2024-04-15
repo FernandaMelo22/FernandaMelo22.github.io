@@ -1,0 +1,21 @@
+h1{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+    font-family:'Negrito, Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.card-text{
+    text-align: justify;
+}
+
